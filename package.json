@@ -1,0 +1,19 @@
+{
+  "name": "TestModule",
+  "version": "0.0.1",
+  "description": "TestModule",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/estero2002/TestModule.git"
+  },
+  "scripts": {
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}

@@ -1,0 +1,1 @@
+exports.TestModule = require('./testModule');
